@@ -1,4 +1,5 @@
 // 让G放左，B放右的最少交换次数
+https://leetcode.cn/problems/interleaving-string/submissions/
 class MinSwap {
 public:
     int minSwap(string s) {
